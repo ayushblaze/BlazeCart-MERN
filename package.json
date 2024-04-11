@@ -1,1 +1,22 @@
-{}
+{
+  "name": "blazecart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushblaze/BlazeCart-MERN.git"
+  },
+  "author": "Ayush Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushblaze/BlazeCart-MERN/issues"
+  },
+  "homepage": "https://github.com/ayushblaze/BlazeCart-MERN#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
