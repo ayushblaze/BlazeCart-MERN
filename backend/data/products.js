@@ -71,6 +71,17 @@ const products = [
     rating: 4,
     numReviews: 12,
   },
+  {
+    name: 'CROSSBODY BAG',
+    image: '/images/bag.jpg',
+    description: 'Crossbody bag with a flap. Two adjustable and detachable straps, one a canvas shoulder strap and the other a crossbody strap. Magnetic clasp closure.',
+    brand: 'Zara',
+    category: 'Accessories',
+    price: 3290,
+    countInStock: 0,
+    rating: '4.5',
+    numReviews: 30,
+  }
 ]
 
 export default products;
